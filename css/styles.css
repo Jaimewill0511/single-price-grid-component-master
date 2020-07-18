@@ -91,6 +91,10 @@ font-size: 3rem;
   bottom: 10px;
 }
 
+.second-line {
+  opacity: 0.6;
+}
+
 @media screen and (max-width: 1000px) {
   .mybut {
   width: 100%;
